@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "32b4b1cd-baca-4690-b5fb-c1c4ce283922",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "背包格子": {
+      "ver": "1.0.3",
+      "uuid": "af10961b-528b-4744-bcd9-1a1d7741450c",
+      "rawTextureUuid": "32b4b1cd-baca-4690-b5fb-c1c4ce283922",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 50,
+      "height": 47,
+      "rawWidth": 50,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
